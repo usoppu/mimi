@@ -1,0 +1,4 @@
+setInterval(function () {
+        console.log('it works' + new Date());
+        $('.reply_markup_button_wrap.reply_markup_button_w1').find('button').click();
+    },30050);
